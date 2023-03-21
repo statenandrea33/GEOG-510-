@@ -1,0 +1,3 @@
+In Python you can loop through a dictionary.
+In Python you can create a tuple, which is a immutable list.
+In Python you can call a function that you created.
